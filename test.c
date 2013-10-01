@@ -3,8 +3,5 @@
 
 int main()
 {
-	char *c = malloc(sizeof(10));
-	fgets(c, 10, stdin);
-	//c[10] = '\0';
-	printf("This is what was entered: %s\n", c);
+	printf("This is what was edited by branch1: \n");
 } 
