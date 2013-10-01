@@ -3,5 +3,5 @@
 
 int main()
 {
-	printf("This is what was edited by branch1: \n");
+	printf("This is what was edited by b1: \n");
 } 
